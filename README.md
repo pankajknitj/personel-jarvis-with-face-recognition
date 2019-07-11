@@ -9,3 +9,5 @@
 * maintain conversatin in a log
 # Uses
 * as jarvis to do work easy
+# URL
+https://github.com/pankajkGitHub850/personel-jarvis-with-face-recognition
