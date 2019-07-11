@@ -1,1 +1,1 @@
-# personel-jarvis-with-face-recognition(coming soon)
+# personel-jarvis-with-face-recognition(detailing very soon)
