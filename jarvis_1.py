@@ -1,3 +1,5 @@
+#need to give your own song list with path in list named track
+
 import speech_recognition as sr
 import face_recognition as fc
 import numpy as np
